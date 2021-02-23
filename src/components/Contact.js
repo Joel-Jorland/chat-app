@@ -14,7 +14,7 @@ function Contact(props) {
                     <p className="status-text">{props.online ? "online" : "offline"}</p>
                 </div>
             </div>
-            <h1>J'aime le poulet et le paté et les pâtes</h1>
+            <h1>J'aime le poulet et le paté et les pâtes et le chorizo</h1>
         </div>
     );
   }
